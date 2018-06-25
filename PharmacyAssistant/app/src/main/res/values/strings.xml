@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Pharmacy Assistant</string>
+
+    <string name="display_message1">What ailment do you have today ?</string>
+    <string name="display_message2">Additional info</string>
+    <string name="display_message3">Additional info</string>
+    <string name="display_message4">Additional info</string>
+    <string name="display_message5">Additional info</string>
+    <string name="display_message6">Additional info</string>
+
+    <string name="question1_display1">Chronic Cough</string>
+    <string name="question2_display1">Shortness of Breath</string>
+    <string name="question3_display1">Wheezing</string>
+
+    <string name="question1_display2">How long have you had the cough?</string>
+    <string name="question2_display2">Did your cough start with an illness or a lung infection?</string>
+    <string name="question3_display2">Do you cough all of the time, or only during or after activity?</string>
+    <string name="question4_display2">Do you cough up mucus? If so, what color is the mucus? Is it thick and viscous, or is it thin and runny?</string>
+    <string name="question5_display2">Do you have chest discomfort with your cough?</string>
+
+    <string name="home_message">How can I help you today ?</string>
+    <string name="alert_message">Please select one of the options to proceed.</string>
+    <string name="submit_message">Based on your selection so far, we would like to recommended a certain product for you *. Please click on the submit button below to proceed. </string>
+    <string name="disclaimer_message">The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy <a href="">here</a>.</string>
+    <string name="disclaimer_text">The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+        The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+        The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+        The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+        The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+        The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+        The recommended product is chosen based on the selection and available choices. Care should be taken to verify the product and consult an expert incase of any queries. Please read the instructions carefully before consuming. Additional details given in our disclaimer policy.
+    </string>
+    <string name="recommendation_message">Your recommended product.</string>
+    <string name="recommendation_name">{Placeholder name} VICKS NYQUIL 8 OZ</string>
+    <string name="register_message">I agree to the terms and conditions.</string>
+    <string name="contentDescription1">Product image</string>
+    <string name="contentDescription2">Coupon</string>
+    <string name="coupon_header">Coupon image</string>
+    <string name="pagename_confirmation">Confirmation</string>
+
+
+    <string name="button_start">START</string>
+    <string name="button_next">NEXT</string>
+    <string name="button_previous">PREVIOUS</string>
+    <string name="button_cancel">CANCEL</string>
+    <string name="button_submit">SUBMIT</string>
+    <string name="button_viewavailability">VIEW AVAILABILITY</string>
+    <string name="button_save">SAVE RECORD</string>
+    <string name="button_print">PRINT</string>
+    <string name="button_done">DONE</string>
+    <string name="button_register">REGISTER</string>
+
+    <string name="firstname_placeholder">First Name</string>
+    <string name="middlename_placeholder">Middle Name</string>
+    <string name="lastname_placeholder">Last Name</string>
+    <string name="emailaddress_placeholder">Email</string>
+    <string name="phonenumber_placeholder">Contact Number</string>
+    <string name="address_placeholder">Address</string>
+</resources>

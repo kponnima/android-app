@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2505b5</color>
+    <color name="colorPrimaryDark">#2f5bfc</color>
+    <color name="colorAccent">#2f5bfc</color>
+    <color name="windowBackground">#1E46D8</color>
+    <color name="textColorPrimary">@android:color/holo_red_dark</color>
+    <color name="textColor">@android:color/black</color>
+    <color name="navigationBarColor">@android:color/darker_gray</color>
+</resources>
